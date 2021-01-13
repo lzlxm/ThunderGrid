@@ -8,7 +8,7 @@ install pyqt5 first
 #Demo Gif
 
 
-![Demo](https://github.com/lzlxm/ThunderGrid/raw/main/Demo/thundergrid_demo.gif)
+![Demo](https://github.com/lzlxm/ThunderGrid/tree/main/Demo/thundergrid_demo.gif)
 
 
 
